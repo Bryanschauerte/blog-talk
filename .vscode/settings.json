@@ -1,0 +1,20 @@
+{
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Kimbie Dark",
+  "atomKeymap.promptV3Features": true,
+  "eslint.autoFixOnSave": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "tslint.autoFixOnSave": true,
+  "editor.tabSize": 2,
+  "eslint.options": {
+    "configFile": ".eslintrc",
+    "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended"
+    ]
+  },
+  "jshint.enable": false
+}
